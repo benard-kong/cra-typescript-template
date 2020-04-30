@@ -1,3 +1,16 @@
+# Summary
+
+A template Create React App fully set up with ESLint AirBnB and Prettier.
+
+This template has the following features:
+
+- Strict AirBnB ESLinter to encourage cleaner code and best practices
+- `react-hooks/exhaustive-deps` is an error by default, not a warning
+- Git Hooks to run ESLint before committing
+- Git Hooks to run tests before pushing
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
